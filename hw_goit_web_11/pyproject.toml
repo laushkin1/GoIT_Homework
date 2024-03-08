@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "hw-goit-web-11"
+version = "0.1.0"
+description = ""
+authors = ["laushkin1 <laushkinivan1@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+fastapi = "^0.103.0"
+uvicorn = {extras = ["standard"], version = "^0.23.2"}
+sqlalchemy = "^2.0.20"
+psycopg2 = "^2.9.7"
+pydantic = {extras = ["email"], version = "^2.3.0"}
+alembic = "^1.12.0"
+
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.7.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

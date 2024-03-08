@@ -1,0 +1,128 @@
+[20:56:13] Addressbook has been loaded!
+[20:56:44] Addressbook has been loaded!
+[20:56:54] Addressbook has been loaded!
+[20:57:23] Contact Al has been added.
+[20:57:23] Addressbook has been saved!
+[21:09:55] Addressbook has been loaded!
+[21:10:21] Contact Al has been added.
+[21:10:21] Addressbook has been saved!
+[21:10:42] Contact Al has been edited!
+[21:10:42] Addressbook has been saved!
+[21:20:14] Addressbook has been loaded!
+[21:30:09] Adressbook has been created!
+[21:30:25] Adressbook has been created!
+[21:30:48] Contact Al has been added.
+[21:30:48] Addressbook has been saved!
+[21:31:32] Addressbook has been loaded!
+[21:31:49] Contact Al has been edited!
+[21:31:49] Addressbook has been saved!
+[21:32:08] Contact Al has been edited!
+[21:32:08] Addressbook has been saved!
+[21:34:04] Addressbook has been loaded!
+[15:23:12] Addressbook has been loaded!
+[21:42:45] Addressbook has been loaded!
+[21:43:18] Contact Alex has been added.
+[21:43:18] Addressbook has been saved!
+[21:43:26] Addressbook has been loaded!
+[21:44:32] Contact Alex has been added.
+[21:44:32] Addressbook has been saved!
+[12:49:31] Addressbook has been loaded!
+[12:50:36] Addressbook has been loaded!
+[12:50:42] Addressbook has been loaded!
+[12:51:29] Addressbook has been loaded!
+[12:51:30] Addressbook has been loaded!
+[12:52:23] Addressbook has been loaded!
+[12:52:35] Addressbook has been loaded!
+[12:52:36] Addressbook has been loaded!
+[12:55:21] Addressbook has been loaded!
+[12:56:20] Addressbook has been loaded!
+[12:56:51] Addressbook has been loaded!
+[13:03:25] Adressbook has been created!
+[13:04:24] Adressbook has been created!
+[13:04:43] Adressbook has been created!
+[13:04:55] Adressbook has been created!
+[13:05:42] Contact Alex has been added.
+[13:05:42] Addressbook has been saved!
+[13:07:34] Addressbook has been loaded!
+[13:07:39] Addressbook has been loaded!
+[13:12:28] Addressbook has been loaded!
+[13:14:50] Addressbook has been loaded!
+[13:15:44] Addressbook has been loaded!
+[13:16:31] Addressbook has been loaded!
+[13:16:45] Addressbook has been loaded!
+[13:18:48] Contact Alexis has been added.
+[13:18:48] Addressbook has been saved!
+[13:19:47] Contact marco has been added.
+[13:19:47] Addressbook has been saved!
+[06:09:20] Addressbook has been loaded!
+[11:20:08] Addressbook has been loaded!
+[11:21:18] Addressbook has been loaded!
+[11:21:31] Addressbook has been saved!
+[11:21:50] Addressbook has been loaded!
+[11:22:23] Addressbook has been saved!
+[11:22:49] Contact marco has been removed!
+[11:22:49] Addressbook has been saved!
+[11:23:09] Contact Alexis has been removed!
+[11:23:09] Addressbook has been saved!
+[11:23:23] Contact Alex has been removed!
+[11:23:23] Addressbook has been saved!
+[11:24:31] Adressbook has been created!
+[11:32:52] Adressbook has been created!
+[11:33:25] Adressbook has been created!
+[11:33:46] Adressbook has been created!
+[11:40:21] Adressbook has been created!
+[11:40:34] Adressbook has been created!
+[11:41:47] Adressbook has been created!
+[11:43:08] Contact Some Name has been added.
+[11:43:08] Addressbook has been saved!
+[11:43:49] Addressbook has been loaded!
+[11:44:02] Addressbook has been saved!
+[11:44:14] Contact Some Name has been removed!
+[11:44:14] Addressbook has been saved!
+[11:44:25] Addressbook has been saved!
+[11:44:46] Addressbook has been loaded!
+[11:44:49] Addressbook has been saved!
+[11:57:15] Addressbook has been loaded!
+[11:58:12] Contact Ivan has been added.
+[11:58:12] Addressbook has been saved!
+[12:01:03] Contact Danya has been added.
+[12:01:03] Addressbook has been saved!
+[12:03:18] Addressbook has been loaded!
+[12:03:43] Addressbook has been loaded!
+[12:06:02] Addressbook has been loaded!
+[12:06:15] Contact Danya has been edited!
+[12:06:15] Addressbook has been saved!
+[12:06:29] Addressbook has been loaded!
+[12:06:57] Addressbook has been saved!
+[12:07:08] Contact Danya has been removed!
+[12:07:08] Addressbook has been saved!
+[12:07:18] Contact Ivan has been removed!
+[12:07:18] Addressbook has been saved!
+[12:07:30] Addressbook has been saved!
+[12:07:37] Addressbook has been loaded!
+[14:32:29] Addressbook has been loaded!
+[14:33:40] Contact Ivan Laushkin has been added.
+[14:33:40] Addressbook has been saved!
+[14:38:50] Contact Danil Shevelyov has been added.
+[14:38:50] Addressbook has been saved!
+[14:45:59] Addressbook has been loaded!
+[14:46:01] Addressbook has been loaded!
+[14:46:43] Addressbook has been loaded!
+[15:17:00] Addressbook has been loaded!
+[15:17:15] Addressbook has been loaded!
+[15:17:53] Addressbook has been loaded!
+[15:18:43] Addressbook has been loaded!
+[15:19:58] Addressbook has been loaded!
+[15:20:43] Addressbook has been loaded!
+[15:21:52] Addressbook has been loaded!
+[15:24:50] Addressbook has been loaded!
+[15:37:30] Addressbook has been loaded!
+[15:38:52] Addressbook has been saved!
+[15:41:49] Addressbook has been loaded!
+[15:41:56] Addressbook has been saved!
+[15:42:06] Contact Ivan Laushkin has been removed!
+[15:42:06] Addressbook has been saved!
+[15:42:18] Addressbook has been saved!
+[15:42:36] Contact Danil Shevelyov has been removed!
+[15:42:36] Addressbook has been saved!
+[22:57:15] Addressbook has been loaded!
